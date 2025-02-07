@@ -1,0 +1,22 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.even {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.even#num2 {
+    font-size: 32px;
+    color: #0000ff;
+}
+
+.odd#num3 {
+    font-size: 24px;
+}
+
+.even#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
